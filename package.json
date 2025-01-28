@@ -1,9 +1,9 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "react-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "A personal portfolio website showcasing my front-end development skills and projects",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://asha-saini06.github.io/react-portfolio/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
