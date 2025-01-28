@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/desk.jpg";
+import image from "../images/workspace.jpg";
 
 const imageAltText = "cozy and productive workspace";
 
@@ -31,28 +31,28 @@ const imageAltText = "cozy and productive workspace";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Relay Chat App 💬",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Real-time chat app built with MERN stack, Socket.io, TailwindCSS, and Daisy UI. Features include JWT authentication, live messaging, and responsive UI.",
+    url: "https://relay-chat-app-491v.onrender.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Forecastify 🌤️",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Next.js web application for fetching and displaying current weather forecasts using the OpenWeatherMap API.",
+    url: "https://forecastify-zephyr.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "ShopEase 🛒",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a simple shopping list app for easy management of shopping lists.",
+    url: "https://shopease-add-to-cart.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Instagram Clone 📸",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a React-based Instagram clone with Firebase, with core features like user authentication, profile management, photo sharing, feed, likes, comments.",
+    url: "https://an-insta-clone.vercel.app/",
   },
 ];
 
